@@ -1,2 +1,2 @@
 # RandomApp
-App for throwing coins and dices
+App for throwing coins and dices, just for fun
